@@ -12,9 +12,10 @@ A collection of all the RPG Maker games i've found interesting. (I haven't playe
 - [Hylics](https://store.steampowered.com/app/397740/Hylics/)
 - [Hylics 2](https://store.steampowered.com/app/1286710/Hylics_2/)
 
+# Free
+
 The real list starts now.
 
-# Free
 - [Wadanohara and the Great Blue Sea](https://vgperson.com/games/wadanohara.htm)
 - [LISA: The First](https://rpgmaker.net/games/4412/)
 - [LISA: The Pointless](https://gamejolt.com/games/lisa-the-pointless/221705)
