@@ -84,7 +84,7 @@ The real list starts now.
 - [Fear & Hunger 2: Termina](https://store.steampowered.com/app/2171440/Fear__Hunger_2_Termina/)
 
 # Afterword
-If you’d like to play games Yume 2kki to Mikan Muzou online I strongly suggest you try out https://ynoproject.net/!
+If you’d like to play games Yume 2kki to Mikan Muzou online I strongly suggest you try out the [Yume Nikki Online Project](https://ynoproject.net/)
 
 If you'd like to suggest a game, make an issue!
 
