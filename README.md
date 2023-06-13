@@ -3,8 +3,8 @@ Porting my [original google doc](https://docs.google.com/document/d/10svdJrQ9pdX
 
 ## First of all, let's get the obvious out of the way
 - [Yume Nikki](https://store.steampowered.com/app/650700/Yume_Nikki/)
-- [OMORI (Paid)](https://store.steampowered.com/app/1150690/OMORI/)
-- [OneShot (Paid](https://store.steampowered.com/app/420530/OneShot/)
+- [OMORI](https://store.steampowered.com/app/1150690/OMORI/)(Paid)
+- [OneShot](https://store.steampowered.com/app/420530/OneShot/)(Paid)
 
 # Free
 - [OFF](https://www.mediafire.com/file/sx1kyo89yu0dko1/OFF+English+3.0.zip)
