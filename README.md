@@ -1,6 +1,8 @@
 # Awesome RPG Maker Games
 Porting my [original Google document](https://docs.google.com/document/d/10svdJrQ9pdXnYhwRRStjJn7Qn5cocG6ayZt_KXPvuJs/edit?usp=sharing) to GitHub
 
+Use [EasyRPG Maker](https://easyrpg.org/player/downloads/), better support for RPG Maker 2000/2003 games (if it was RPG_RT.EXE it'll work)
+
 A collection of all the RPG Maker games i've found interesting. (I haven't played them all yet but I will when  I remember)
 
 ## First of all, Here's some of my favourites (you may of heard about these)
