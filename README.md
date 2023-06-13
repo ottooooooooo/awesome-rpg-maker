@@ -1,5 +1,7 @@
 # Awesome RPG Maker Games
-Porting my [original google doc](https://docs.google.com/document/d/10svdJrQ9pdXnYhwRRStjJn7Qn5cocG6ayZt_KXPvuJs/edit?usp=sharing) to github
+Porting my [original Google document](https://docs.google.com/document/d/10svdJrQ9pdXnYhwRRStjJn7Qn5cocG6ayZt_KXPvuJs/edit?usp=sharing) to GitHub
+
+A collection of all the RPG Maker games i've found interesting. (I haven't played them all yet but I will when  I remember)
 
 ## First of all, let's get the obvious out of the way
 - [Yume Nikki](https://store.steampowered.com/app/650700/Yume_Nikki/)
@@ -31,6 +33,26 @@ Porting my [original google doc](https://docs.google.com/document/d/10svdJrQ9pdX
 - [OneShot (2014)](https://rpgmaker.net/games/6560/downloads/)
 - [Hello Charlotte EP2: Requiem Aeternam Deo](https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/)
 - [FAREWELL SEN](https://store.steampowered.com/app/2025650/FAREWELL_SEN/)
+- [CORPSE-PARTY -Rebuilt](https://memoriesoffear.jcink.net/index.php?showtopic=46)
+- [Corpse Party (2016)](https://store.steampowered.com/app/251270/Corpse_Party/)
+- [Dreaming Mary](https://rpgmaker.net/games/6232/)
+- [Dweller’s Empty Path](https://tuyoki.itch.io/dwellers-empty-path)
+- [Eloquent Countenance](https://racheldrawsthis.itch.io/eloquent-countenance)
+- [END ROLL](https://vgperson.com/games/endroll.htm)
+- [Irisu Syndrome](https://www.mediafire.com/file/nlujzb91wjl0bu7/IrisuSyndromeENv2.03.zip)
+- [Kanye Quest 3030](https://archive.org/details/kanye-quest-3030)
+- [Midnight Train](https://lyd1a.itch.io/midnight-train)
+- [Misao](https://vgperson.com/games/misao.htm)
+- [Pen Palz](https://www.mediafire.com/file/5rxgk5ldvqi6z5h/Pen_Palz.rar/file)
+- [Pocket Mirror Classic](https://astralshiftpro.itch.io/pocket-mirror-classic)
+- [Pom Gets Wi-Fi](https://brianna-lei.itch.io/pom-gets-wi-fi)
+- [Shibuya Marble Texture](https://ecorust9.itch.io/shibuya-marble-texture)
+- [SHTDN](https://shtdn.carrd.co/)
+- [The Dark Side of Red Riding Hood](https://www.mediafire.com/file/0qo51fd42uookmz/The_Dark_Side_of_Red_Riding_Hood_%255BEng%255D.zip/file)
+- [The Gray Garden](https://vgperson.com/games/graygarden.htm)
+- [Walking on a Star Unknown](https://vgperson.com/games/starunknown.htm)
+- [Your Turn To Die](https://vgperson.com/games/yourturntodie.htm)
+- [ZENO Remake](https://madui.booth.pm/items/3039902?registration=1) (requires Pixiv Account)
 
 # Paid
 - [LISA: The Painful](https://store.steampowered.com/app/335670/LISA_The_Painful/)
@@ -45,3 +67,16 @@ Porting my [original google doc](https://docs.google.com/document/d/10svdJrQ9pdX
 - [Hello Charlotte: Heaven's Gate](https://store.steampowered.com/app/952490/Hello_Charlotte_Heavens_Gate/) (Visual Novel but i’m guessing it’s a precursor to EP2)
 - [Hello Charlotte EP3: Childhood’s End](https://store.steampowered.com/app/760890/Hello_Charlotte_EP3_Childhoods_End/)
 - [shita ni](https://store.steampowered.com/app/2304970/shita_ni/)
+- [Extra Case: My Girlfriend’s Secret](https://store.steampowered.com/app/1959530/Extra_Case_My_Girlfriends_Secrets/)
+- [Corpse Party (2021)](https://store.steampowered.com/app/1273260/Corpse_Party_2021/)
+- [The Forest of Drizzling Rain](https://store.steampowered.com/app/2106810/The_Forest_of_Drizzling_Rain/)
+- [Imposter Factory](https://store.steampowered.com/app/1182620/Impostor_Factory/)
+- [Misao: Definitive Edition](https://store.steampowered.com/app/691450/Misao_Definitive_Edition/)
+- [Pocket Mirror ~ GoldenerTraum](https://store.steampowered.com/app/1899060/Pocket_Mirror__GoldenerTraum/)
+- [Fear & Hunger](https://store.steampowered.com/app/1002300/Fear__Hunger/)
+- [Fear & Hunger 2: Termina](https://store.steampowered.com/app/2171440/Fear__Hunger_2_Termina/)
+
+# Afterword
+If you’d like to play games Yume 2kki to Mikan Muzou online I strongly suggest you try out https://ynoproject.net/!
+
+For more, visit RPG Maker Wiki, RPGMaker.net or Yume Nikki Fangames Wiki. Thanks for reading!
