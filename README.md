@@ -9,8 +9,8 @@ A collection of all the RPG Maker games i've found interesting. (I haven't playe
 - [OneShot](https://store.steampowered.com/app/420530/OneShot/) (Paid)
 - [OFF](https://www.mediafire.com/file/sx1kyo89yu0dko1/OFF+English+3.0.zip)
 - [Ib](https://vgperson.com/games/ib.htm)
-- [Hylics](https://store.steampowered.com/app/397740/Hylics/)
-- [Hylics 2](https://store.steampowered.com/app/1286710/Hylics_2/)
+- [Hylics](https://store.steampowered.com/app/397740/Hylics/) (Paid)
+- [Hylics 2](https://store.steampowered.com/app/1286710/Hylics_2/) (Paid)
 
 # Free
 
