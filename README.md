@@ -3,14 +3,18 @@ Porting my [original Google document](https://docs.google.com/document/d/10svdJr
 
 A collection of all the RPG Maker games i've found interesting. (I haven't played them all yet but I will when  I remember)
 
-## First of all, let's get the obvious out of the way
+## First of all, Here's some of my favourites (you may of heard about these)
 - [Yume Nikki](https://store.steampowered.com/app/650700/Yume_Nikki/)
 - [OMORI](https://store.steampowered.com/app/1150690/OMORI/) (Paid)
 - [OneShot](https://store.steampowered.com/app/420530/OneShot/) (Paid)
-
-# Free
 - [OFF](https://www.mediafire.com/file/sx1kyo89yu0dko1/OFF+English+3.0.zip)
 - [Ib](https://vgperson.com/games/ib.htm)
+- [Hylics](https://store.steampowered.com/app/397740/Hylics/)
+- [Hylics 2](https://store.steampowered.com/app/1286710/Hylics_2/)
+
+The real list starts now.
+
+# Free
 - [Wadanohara and the Great Blue Sea](https://vgperson.com/games/wadanohara.htm)
 - [LISA: The First](https://rpgmaker.net/games/4412/)
 - [LISA: The Pointless](https://gamejolt.com/games/lisa-the-pointless/221705)
@@ -57,8 +61,6 @@ A collection of all the RPG Maker games i've found interesting. (I haven't playe
 # Paid
 - [LISA: The Painful](https://store.steampowered.com/app/335670/LISA_The_Painful/)
 - [LISA: The Joyful](https://store.steampowered.com/app/379310/LISA_the_Joyful/)
-- [Hylics](https://store.steampowered.com/app/397740/Hylics/)
-- [Hylics 2](https://store.steampowered.com/app/1286710/Hylics_2/)
 - [tomorrow won’t come for those without ██████](https://store.steampowered.com/app/1334700/tomorrow_wont_come_for_those_without/)
 - [Angels of Death](https://store.steampowered.com/app/537110/Angels_of_Death/)
 - [The Witch's House MV](https://store.steampowered.com/app/885810/The_Witchs_House_MV/)
