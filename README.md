@@ -86,4 +86,6 @@ The real list starts now.
 # Afterword
 If you’d like to play games Yume 2kki to Mikan Muzou online I strongly suggest you try out https://ynoproject.net/!
 
-For more, visit RPG Maker Wiki, RPGMaker.net or Yume Nikki Fangames Wiki. Thanks for reading!
+If you'd like to suggest a game, make an issue!
+
+For more, visit the [RPG Maker Wiki](https://rpgmaker.fandom.com/wiki/RPG_Maker_Wiki), [RPGMaker.net](https://rpgmaker.net/games/) or [Yume Nikki Fangames Wiki](https://yumenikkifg.fandom.com/wiki/Yume_Nikki_Fangames_Wiki). Thanks for reading!
