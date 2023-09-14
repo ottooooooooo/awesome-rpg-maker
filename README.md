@@ -88,4 +88,4 @@ If you’d like to play games Yume 2kki to Mikan Muzou online I strongly suggest
 
 If you'd like to suggest a game, make an issue!
 
-For more, visit the [RPG Maker Wiki](https://rpgmaker.fandom.com/wiki/RPG_Maker_Wiki), [RPGMaker.net](https://rpgmaker.net/games/) or [Yume Nikki Fangames Wiki](https://yumenikkifg.fandom.com/wiki/Yume_Nikki_Fangames_Wiki). Thanks for reading!
+For more, visit the [RPG Maker Wiki](https://rpgmaker.fandom.com/wiki/RPG_Maker_Wiki), [RPGMaker.net](https://rpgmaker.net/games/) or [Yume Nikki Fangames Wiki](https://yume.wiki/Main_Page). Thanks for reading!
