@@ -26,7 +26,7 @@ The real list starts now.
 - [Witch's Heart](https://vgperson.com/games/witchheart.htm)
 - [Mad Father](https://vgperson.com/games/madfather.htm)
 - [Yume 2kki](https://drive.google.com/drive/folders/16nVEcpFXuZB3R3ipqQz8SvYVS6Oncpvs)
-- [.flow](https://mega.nz/folder/rVV2ha6Z#ilQnipwufw9-J5AUFm6rTw)
+- [.flow](https://dl.cherrytree.info/haruku/flow_ver019/)
 - [Uneven Dream](https://unevendream.itch.io/uneven-dream)
 - [Deep Dreams](https://www.dropbox.com/s/utf2k3pz3s9bgzi/Deep%20Dreams%200.05.zip?dl=0)
 - [Answered Prayers](https://www.mediafire.com/file/vtxl1e5jm1xl8bx/AnsweredPrayers_v0.03.rar/file)
